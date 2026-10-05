@@ -1,0 +1,6 @@
+{
+  "name": "Comm File Exchange - QuickShare Peer Transfer",
+  "description": "A real device-to-device Quick Share file transfer system and visual TCP communication lab with live packet stream, chunk-level acknowledgements, and SHA-256 integrity verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
